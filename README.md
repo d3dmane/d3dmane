@@ -1,6 +1,6 @@
 Hi there!
 That's me.
-Stuend at Óbudai Egyetem.
+Student at Óbudai Egyetem.
 I enjoy drumming and movies.
 
 <!--
