@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi there!
+That's me.
+Stuend at Óbudai Egyetem.
+I enjoy drumming and movies.
 
 <!--
 **d3dmane/d3dmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
